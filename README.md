@@ -1,4 +1,4 @@
-# Blockchain Simulator
+# Blockchain Simulator 🔐
 
 ## Overview
 
